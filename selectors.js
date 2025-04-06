@@ -25,6 +25,12 @@ const addBtn = document.getElementById("btn")
 console.log(addBtn);
 
 
+//! innerHTML kullanılmayacak açık var hacklenirsin
+
+const myİnput = document.getElementById("input")
+console.log(myİnput.value);
+
+
 //*===========================================
 //*          GETELEMENTSBYTAGNAME()
 //*===========================================
